@@ -1,0 +1,29 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    padding: 10px 10px;
+}
+
+
+.nav-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 70px;
+    
+}
+
+
+.nav-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 70px;
+
+}
+.nav-list__item {
+    white-space: nowrap;
+}
